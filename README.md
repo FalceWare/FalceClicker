@@ -1,4 +1,4 @@
-- 👋 Hello! FaltseVare welcomes you!
+- 👋 Hello! FalceVare welcomes you!
 - 🌱 This is a portable assistant program for simulating clicks in automatic mode.
 - 📫 Login: admin
 - 💞️ Password: winter2024
